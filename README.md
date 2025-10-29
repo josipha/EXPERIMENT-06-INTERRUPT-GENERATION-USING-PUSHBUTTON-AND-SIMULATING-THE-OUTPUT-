@@ -93,10 +93,18 @@ https://engineeringxpert.com/wp-content/uploads/2022/04/26.png
 
 
 ## Output screen shots of proteus  :
+## LED ON:
+<img width="1920" height="1200" alt="Screenshot (4)" src="https://github.com/user-attachments/assets/0dbce553-3c8d-4ec0-95a4-8b41be358655" />
+
+## LED OFF:
+<img width="1920" height="1200" alt="Screenshot (5)" src="https://github.com/user-attachments/assets/338684ed-99b5-42af-8102-5ee78e75c954" />
+
  
  
- ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
- 
+ ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE):
+
+ <img width="1920" height="1200" alt="Screenshot (6)" src="https://github.com/user-attachments/assets/1710f686-acc9-4821-a417-7c9a3a5c6568" />
+
  
 ## Result :
 Interfacing a push button and interrupt genrateion is simulated using proteus 
